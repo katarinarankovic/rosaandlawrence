@@ -1,6 +1,6 @@
 # Una Resuscitazione Rituale di Amanti Eterni
 
-<a href="/script/italiano.pdf" download>Scarica</a>
+<a id="raw-url" href="https://raw.githubusercontent.com/katarinarankovic/rosaandlawrence/master/italiano.pdf">scarica qui</a>
 
 Traduzione di Alberto Condotta
  
