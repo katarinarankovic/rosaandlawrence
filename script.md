@@ -1,6 +1,4 @@
-# Script
-
-## Choose a Language
+# Choose a Language
 
 [English](/script/english.md)
 
