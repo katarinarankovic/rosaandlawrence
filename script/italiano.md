@@ -1,12 +1,12 @@
 # Una Resuscitazione Rituale di Amanti Eterni
 
+<a href="/script/italiano.pdf" download>Scarica</a>
 
 Traduzione di Alberto Condotta
  
 
 *Uno di voi è Rosa, uno di voi è Lawrence. Non avete mai letto questo testo. Sedete uno di fronte all’altro, con in mano questo copione. Mettetevi a vostro agio. Quando vi sembra il momento giusto, cominciate a leggere nel modo e alla velocità che preferite.*
 
-<a href="/script/italiano.pdf" class="image fit"><img src="images/marr_pic.jpg" alt="" type="application/pdf">scarica</a>
 
 LAWRENCE: Rosa!
  
