@@ -2,10 +2,11 @@
 
 ## Choose a Language
 
-[English](/script/english/a-ritual-resuscitation-of-eternal-lovers.md)
+[English](/script/english.md)
 
-Italiano
+[Italiano](/script/italiano.md)
 
-Lietuvis
+Lietuvis(/script/lietuvis.md)
 
-Cрпски
+Srpski(script/srpski.md)
+
