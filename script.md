@@ -2,7 +2,7 @@
 
 ## Choose a Language
 
-[English](/script/english)
+[English](/script/english/a-ritual-resuscitation-of-eternal-lovers.md)
 
 Italiano
 
