@@ -6,7 +6,7 @@
 
 [Italiano](/script/italiano.md)
 
-Lietuvis(/script/lietuvis.md)
+[Lietuvis](/script/lietuvis.md)
 
-Srpski(script/srpski.md)
+[Srpski](script/srpski.md)
 
