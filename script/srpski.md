@@ -2,9 +2,9 @@ Obredno Buđenje Večnih Ljubavnika
 
 *Prevela Slavica Ranković*
 
-*Jedno od vas dvoje je Roza a drugo Lorens. Ovo niste nikada pre čitali.
+Jedno od vas dvoje je Roza a drugo Lorens. Ovo niste nikada pre čitali.
 Sedite jedno naspram drugoga držeći ove scenarije.
-Smestite se udobno. Kada osetite da je pravi trenutak, počnite da čitate opušteno, svojim tempom.*
+Smestite se udobno. Kada osetite da je pravi trenutak, počnite da čitate opušteno, svojim tempom.
  
 
 
