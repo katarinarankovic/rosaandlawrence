@@ -6,7 +6,7 @@
 
 You are invited to assist two fictional lovers in their ambition to become autonomous agents. To donate your consciousness, follow these four steps:
 
-1. Download the script
+1. Download the [script](/script.md)
 2. Record yourself reading it aloud with a friend
 3. Upload your reading anywhere with the hashtag #rosaandlawrence
 
