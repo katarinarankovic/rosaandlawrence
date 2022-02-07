@@ -1,5 +1,7 @@
 Obredno Buđenje Večnih Ljubavnika
 
+<a href="https://raw.githubusercontent.com/katarinarankovic/rosaandlawrence/main/script/srpski.pdf">preuzmite ovde</a>
+
 *Prevela Slavica Ranković*
 
 Jedno od vas dvoje je Roza a drugo Lorens. Ovo niste nikada pre čitali.

@@ -1,5 +1,6 @@
 # Amžinų įsimylėjėlių atgimimo ritualas
 
+<a href="https://raw.githubusercontent.com/katarinarankovic/rosaandlawrence/main/script/lietuvis.pdf">parsisiųsti čia</a>
 
 *Vertė Aistė Gaižauskaitė*
 

@@ -3,7 +3,7 @@
 <a href="https://raw.githubusercontent.com/katarinarankovic/rosaandlawrence/main/script/italiano.pdf">scarica qui</a>
 
 Traduzione di Alberto Condotta
- 
+
 
 *Uno di voi è Rosa, uno di voi è Lawrence. Non avete mai letto questo testo. Sedete uno di fronte all’altro, con in mano questo copione. Mettetevi a vostro agio. Quando vi sembra il momento giusto, cominciate a leggere nel modo e alla velocità che preferite.*
 
