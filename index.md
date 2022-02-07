@@ -10,5 +10,5 @@ You are invited to assist two fictional lovers in their ambition to become auton
 2. Record yourself reading it aloud with a friend
 3. Upload your reading to social media using #rosaandlawrence
 
-Rosa and Lawrence were written by Katarina Rankovic on 3 October 2015
+Rosa and Lawrence were written by [Katarina Rankovic](https://www.katarinarankovic.art/) on 3 October 2015
 
