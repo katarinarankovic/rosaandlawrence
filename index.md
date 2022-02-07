@@ -1,11 +1,7 @@
 # A Ritual Resuscitation of Eternal Lovers
 
-<!--<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eLJLbxW7fw0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>-->
-
 <p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?controls=0&amp;list=PL_900p0RwL1nnLN73MpmJA8ITDTssIwz3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL_900p0RwL1nnLN73MpmJA8ITDTssIwz3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 
