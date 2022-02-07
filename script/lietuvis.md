@@ -5,7 +5,7 @@
 
 
 
-*Vienas iš jūsų esate Rasa, o kitas - Laurynas. Jūs niekada nesate skaitę šio teksto. Jūs sėdite vienas priešais kitą laikydami jį rankose priešais save. Įsipatoginkite. Kai būsite pasiruošę, pradėkite skaityti ramiai, savu tempu.*
+Vienas iš jūsų esate Rasa, o kitas - Laurynas. Jūs niekada nesate skaitę šio teksto. Jūs sėdite vienas priešais kitą laikydami jį rankose priešais save. Įsipatoginkite. Kai būsite pasiruošę, pradėkite skaityti ramiai, savu tempu.
 
 
 

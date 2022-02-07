@@ -4,9 +4,7 @@
 Traduzione di Alberto Condotta
  
 
-*Uno di voi è Rosa, uno di voi è Lawrence. Non avete mai letto questo testo.
-Sedete uno di fronte all’altro, con in mano questo copione.
-Mettetevi a vostro agio. Quando vi sembra il momento giusto, cominciate a leggere nel modo e alla velocità che preferite.*
+*Uno di voi è Rosa, uno di voi è Lawrence. Non avete mai letto questo testo. Sedete uno di fronte all’altro, con in mano questo copione. Mettetevi a vostro agio. Quando vi sembra il momento giusto, cominciate a leggere nel modo e alla velocità che preferite.*
 
 [scarica](/script/italiano.pdf)
  
