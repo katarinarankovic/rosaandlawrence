@@ -10,7 +10,7 @@
 			display: block;
 			margin: 1em auto;
 			width: 80%;
-			height: calc(0.45 * vw);
+			height: calc(45 * vw);
 		}
 </style>
 </head>
