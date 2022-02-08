@@ -9,8 +9,8 @@
 		iframe{
 			display: block;
 			margin: 1em auto;
-			width: 80%;
-			height: calc(0.5625 * device-width)
+			width: 70%;
+			height: calc(0.5625 * 70vw)
 		}
 </style>
 </head>
