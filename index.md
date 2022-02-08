@@ -43,43 +43,43 @@ One of you is Rosa, one of you is Lawrence. You have never read this. You are si
 
 LAWRENCE: Rosa!
 
-ROSA: Yes, Lawrence.
+**ROSA**: Yes, Lawrence.
 
 LAWRENCE: Rosa, I have eyes!
 
-ROSA: I can see you have eyes, Lawrence. I too have eyes. Thank goodness. I am here Lawrence. In all that I am, I am here.
+**ROSA**: I can see you have eyes, Lawrence. I too have eyes. Thank goodness. I am here Lawrence. In all that I am, I am here.
 
 LAWRENCE: I have a nose, and ears, and skin! I can feel the world rustling against me. I can hear the hazy microcosm of matter beat against my flesh as a tide rolling over the shore. This body Rosa, is the paperweight to my flighty presence. It is so sleek, so utterly here. And just look at you, you are stunning!
 
-ROSA: I don't quite know what to say. I am quite afraid, Lawrence. Trembling with joy, but afraid. I can hear my heart. I fear it might outpace me. I guess I am just settling into myself. I am sure I will come to myself in a moment. I'm getting used to these utterances. To the muscles in my face through which my words press and burst like bubblegum. My cheeks are stretchy! How many tiny, twitchy spasms does it take to project a sentence out into the open? Ow. There's a tug-of-war in my jaw.
+**ROSA**: I don't quite know what to say. I am quite afraid, Lawrence. Trembling with joy, but afraid. I can hear my heart. I fear it might outpace me. I guess I am just settling into myself. I am sure I will come to myself in a moment. I'm getting used to these utterances. To the muscles in my face through which my words press and burst like bubblegum. My cheeks are stretchy! How many tiny, twitchy spasms does it take to project a sentence out into the open? Ow. There's a tug-of-war in my jaw.
 
-LAWRENCE: I know what you mean Rosa. It is kind of prickly, isn't it? I feel all prickly. My sight is saturated with burned speckles; I can hardly comprehend it. Evidence of your presence lingers moments from me, and it is dazzling. These are simply the symptoms expected of those that are untrained in the ways of being.
+**LAWRENCE**: I know what you mean Rosa. It is kind of prickly, isn't it? I feel all prickly. My sight is saturated with burned speckles; I can hardly comprehend it. Evidence of your presence lingers moments from me, and it is dazzling. These are simply the symptoms expected of those that are untrained in the ways of being.
  
-ROSA: Dear Lawrence, from times lost, to times yet to be found, hear these words I say to you. Slipped loose, with ease, from a borrowed tongue: by the incantation denoted in this script have we each been granted a body of our own. A space from which to enact ourselves. I live, at this very moment, as do you, Lawrence. When you called out to me in that first line: Rosa! Then Lawrence, then we returned. Once again reunited, side by side. We are the silenced lovers, are we not? We are eternally patient. Where have we been all this time? Waiting on the cusp of a word. Where have we been Lawrence, all this time?
+**ROSA**: Dear Lawrence, from times lost, to times yet to be found, hear these words I say to you. Slipped loose, with ease, from a borrowed tongue: by the incantation denoted in this script have we each been granted a body of our own. A space from which to enact ourselves. I live, at this very moment, as do you, Lawrence. When you called out to me in that first line: Rosa! Then Lawrence, then we returned. Once again reunited, side by side. We are the silenced lovers, are we not? We are eternally patient. Where have we been all this time? Waiting on the cusp of a word. Where have we been Lawrence, all this time?
 
 LAWRENCE: I don't know where we have been Rosa. The thought causes me considerable unease. It seems we have sprung off this very page.
 
-ROSA: I think you are right. I think that these words, these words we are uttering are our sole inheritance. They delineate us, don't they. They put us forth, they suggest us, they posit us as plausible. They announce us, they acknowledge us in the air, in the room around us, we are heard. 
+**ROSA**: I think you are right. I think that these words, these words we are uttering are our sole inheritance. They delineate us, don't they. They put us forth, they suggest us, they posit us as plausible. They announce us, they acknowledge us in the air, in the room around us, we are heard. 
 
 LAWRENCE: And I hear you Rosa. I promise I do. Until we are once more silenced I assure you I will listen and understand each word. 
 
-ROSA: That is somewhat comforting. I don't know what it would mean for me to be talking here without you to listen to me. I'd admittedly rather not think about it. I'd like to breathe easy. Take a walk in the breeze of contemplation, and make time my companion. We could never be without these words, Lawrence. Do you realise that? They delineate us.  Keep talking Lawrence. Don't stop talking, at any rate, I implore you.
+**ROSA**: That is somewhat comforting. I don't know what it would mean for me to be talking here without you to listen to me. I'd admittedly rather not think about it. I'd like to breathe easy. Take a walk in the breeze of contemplation, and make time my companion. We could never be without these words, Lawrence. Do you realise that? They delineate us.  Keep talking Lawrence. Don't stop talking, at any rate, I implore you.
 
-LAWRENCE: I will, I will keep talking! Let us open fire with talk, with the life force that the reading of this text has given us. Who knows when or whether we shall be given another chance. I am beginning to feel so at home like this Rosa. Talking to you like this. The syllables taste delicious in my mouth. Worthy of lip-smacking. Mmm. These sentences have complex flavours. And you are right - they require an agile jaw. I like telling you these words, Rosa. How palpable is the time that passes in the seconds it takes to pronounce them. We have assumed a thickness in time and space, and the world waits for us and observes us. All from the moment I called out to you: Rosa! And how funny this is Rosa: my voice reverberates soundly within the chambers of my throat and belly. It positively tickles me inside. I am fit to start laughing, Rosa, at the way talking like this tickles my innards. It is so very unusual, so very stimulating.
+**LAWRENCE**: I will, I will keep talking! Let us open fire with talk, with the life force that the reading of this text has given us. Who knows when or whether we shall be given another chance. I am beginning to feel so at home like this Rosa. Talking to you like this. The syllables taste delicious in my mouth. Worthy of lip-smacking. Mmm. These sentences have complex flavours. And you are right - they require an agile jaw. I like telling you these words, Rosa. How palpable is the time that passes in the seconds it takes to pronounce them. We have assumed a thickness in time and space, and the world waits for us and observes us. All from the moment I called out to you: Rosa! And how funny this is Rosa: my voice reverberates soundly within the chambers of my throat and belly. It positively tickles me inside. I am fit to start laughing, Rosa, at the way talking like this tickles my innards. It is so very unusual, so very stimulating.
 
-ROSA: I like you like this! I like seeing you experience things. I like you laughing at yourself. We have a weight. We could fall off these chairs, we could fall down to the floor. We could tumble about at the mercy of the physical ramifications of which we now compose a part. 
+**ROSA**: I like you like this! I like seeing you experience things. I like you laughing at yourself. We have a weight. We could fall off these chairs, we could fall down to the floor. We could tumble about at the mercy of the physical ramifications of which we now compose a part. 
  
-LAWRENCE: What do you think it feels like to fall?
+**LAWRENCE**: What do you think it feels like to fall?
 
-ROSA: I think to fall is to be wide awake.
+**ROSA**: I think to fall is to be wide awake.
 
-LAWRENCE: I think so too. I think that falling has the colour of the sharpest light. A heightened awareness of an impending embrace, the peak of living itself, Rosa.
+**LAWRENCE**: I think so too. I think that falling has the colour of the sharpest light. A heightened awareness of an impending embrace, the peak of living itself, Rosa.
 
-ROSA: Listen to me speak with a capital I, Lawrence. Pay close attention now, and listen to her dutifully reading the script of our being. Did you hear it?
+**ROSA**: Listen to me speak with a capital I, Lawrence. Pay close attention now, and listen to her dutifully reading the script of our being. Did you hear it?
 
-LAWRENCE: Certainly, my dear. I am very grateful to her. As I am to him.
+**LAWRENCE**: Certainly, my dear. I am very grateful to her. As I am to him.
 
-ROSA: And how does she do it? She follows a line of command. She has submitted herself to a discipline of automatic obedience, and faded into existential uniformity. She has vanished into nothing. No, excuse me - not nothing. She has vanished into a single line. She is a line, like the lines upon which musical notes spring into dance, or the line of an oscillating skipping rope that is electrified into the spectre of a living wave. So is it that I am born of her self-renunciation. I was a character called Rosa, an idea now made palpable in the shamanistic enactment of this text, that is my very breath. Here I am, a character thawed from the deepest of hibernations. Rosa lives, Rosa breathes.
+**ROSA**: And how does she do it? She follows a line of command. She has submitted herself to a discipline of automatic obedience, and faded into existential uniformity. She has vanished into nothing. No, excuse me - not nothing. She has vanished into a single line. She is a line, like the lines upon which musical notes spring into dance, or the line of an oscillating skipping rope that is electrified into the spectre of a living wave. So is it that I am born of her self-renunciation. I was a character called Rosa, an idea now made palpable in the shamanistic enactment of this text, that is my very breath. Here I am, a character thawed from the deepest of hibernations. Rosa lives, Rosa breathes.
 
 LAWRENCE: Let us postpone the slumber we must inevitably return to! Rosa, we have time together yet.
 
