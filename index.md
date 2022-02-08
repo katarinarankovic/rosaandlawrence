@@ -1,6 +1,8 @@
 <!--# A Ritual Resuscitation of Eternal Lovers-->
 
-<p align="center">
+<!-- align="center"-->
+
+<p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL_900p0RwL1kbfeU07DahHFB4A6VFnmn8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <!--
