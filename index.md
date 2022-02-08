@@ -10,7 +10,7 @@
 			display: block;
 			margin: 1em auto;
 			width: 60%;
-			height: calc(0.5625 * 60vw)
+			height: calc(0.5625 * width)
 		}
 </style>
 </head>
