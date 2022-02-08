@@ -10,7 +10,7 @@
 			display: block;
 			margin: 1em auto;
 			width: 50%;
-			height:  calc(0.5625 * 50vw)
+			height: calc(0.5625 * device-width)
 		}
 </style>
 </head>
