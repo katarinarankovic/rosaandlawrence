@@ -18,9 +18,9 @@
 <iframe src="https://www.youtube.com/embed/-HUcz5WMzUE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-You are invited to assist two fictional lovers in their ambition to become autonomous agents. To donate your consciousness, follow these four steps:
+You are invited to assist two fictional lovers in their ambition to become autonomous agents. To donate your consciousness, follow these three steps:
 
-1. Get the [script](/script.md)
+1. <!--Get the [script](/script.md)--> Find the script below and choose your preferred language.
 2. Record yourself reading it aloud with a friend
 3. Upload your reading to social media using [#rosaandlawrence](https://www.instagram.com/explore/tags/rosaandlawrence/)
 
@@ -28,7 +28,8 @@ Rosa and Lawrence were written by [Katarina Rankovic](https://www.katarinarankov
 
 
 
-[English](/script/english.md) | [Italiano](/script/italiano.md) | [Lietuvis](/script/lietuvis.md) | [Srpski](script/srpski.md)
+[English](/script/english.md) — [Italiano](/script/italiano.md) — [Lietuvis](/script/lietuvis.md) — [Srpski](script/srpski.md)
+
 
 
 # A Ritual Resuscitation of Eternal Lovers
