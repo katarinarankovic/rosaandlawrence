@@ -18,8 +18,6 @@ Rosa and Lawrence were written by [Katarina Rankovic](https://www.katarinarankov
 
 <details><summary>Click for the script</summary> 
 
-<p>
-
 # A Ritual Resuscitation of Eternal Lovers
 
 One of you is Rosa, one of you is Lawrence. You have never read this. You are sitting opposite one another, holding these scripts. Get comfortable. When the time feels right,  start reading aloud at your own ease and pace
@@ -145,7 +143,7 @@ One of you is Rosa, one of you is Lawrence. You have never read this. You are si
 
 **ROSA**: Sweet dreams Lawrence, and good night.
  
- </p>
+ 
 </details>
 
  
