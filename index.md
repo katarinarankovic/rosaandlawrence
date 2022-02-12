@@ -11,8 +11,8 @@
 		iframe{
 			display: block;
 			margin: 1em auto;
-			width: calc(80vw);
-			height: calc(0.5625 * 80vw);
+			width: calc(50vw);
+			height: calc(0.5625 * 50vw);
 		}
 </style>
 </head>
