@@ -1,5 +1,5 @@
 ---
-title: r+l
+layout: home
 ---
 
 <!--# A Ritual Resuscitation of Eternal Lovers-->
