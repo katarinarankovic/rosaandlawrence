@@ -1,12 +1,12 @@
 
 <!-- align="center"-->
 
-<!--<p>
+<p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL_900p0RwL1kbfeU07DahHFB4A6VFnmn8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>-->
+</p>-
 
 
-<head>
+<!--<head>
 <style>
 		iframe{
 			display: block;
@@ -17,7 +17,7 @@
 </style>
 </head>
 
-<iframe src="https://www.youtube.com/embed/-gUZRN44Gvc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/-gUZRN44Gvc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
 
 
 <!--![rosaandlawrence](/images/rl.jpg)-->
