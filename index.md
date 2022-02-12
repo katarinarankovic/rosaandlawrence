@@ -15,7 +15,8 @@ Rosa and Lawrence were written by [Katarina Rankovic](https://www.katarinarankov
 
 [English](/index.md) — [Italiano](/italiano.md) — [Lietuvis](/lietuvis.md) — [Srpski](/srpski.md)
 
-<details><summary>Read script</summary>
+<a href="https://raw.githubusercontent.com/katarinarankovic/rosaandlawrence/main/script/english.pdf">pdf</a>
+<details><summary>Click for the script</summary> 
 
 <p>
 
@@ -148,5 +149,5 @@ One of you is Rosa, one of you is Lawrence. You have never read this. You are si
  </p>
 </details>
 
- <a href="https://raw.githubusercontent.com/katarinarankovic/rosaandlawrence/main/script/english.pdf">or download pdf here</a>
+ 
 
