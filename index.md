@@ -11,8 +11,8 @@
 		iframe{
 			display: block;
 			margin: 1em auto;
-			width: 60%;
-			height: calc(0.5625 * 60vw);
+			width: 80%;
+			height: calc(0.5625 * 80vw);
 		}
 </style>
 </head>
@@ -32,7 +32,7 @@ You are invited to assist two fictional lovers in their ambition to become auton
 Rosa and Lawrence were written by [Katarina Rankovic](https://www.katarinarankovic.art/) on 3 October 2015
     
     
-    
+
 [English](/index.md) — [Italiano](/italiano.md) — [Lietuvis](/lietuvis.md) — [Srpski](/srpski.md)
 # A Ritual Resuscitation of Eternal Lovers
  
