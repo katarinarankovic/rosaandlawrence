@@ -1,5 +1,10 @@
 ---
+<<<<<<< HEAD
 layout: home
+=======
+layout: "home"
+title: "rosaandlawrence"
+>>>>>>> parent of 068e656 (update)
 ---
 
 <!--# A Ritual Resuscitation of Eternal Lovers-->
