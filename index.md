@@ -11,7 +11,7 @@
 		iframe{
 			display: block;
 			margin: 1em auto;
-			width: calc(50device-width);
+			width: calc(50wrapper);
 			height: calc(0.5625 * 50vw);
 		}
 </style>
