@@ -30,9 +30,9 @@ You are invited to assist two fictional lovers in their ambition to become auton
 3. Upload your reading to social media using [#rosaandlawrence](https://www.instagram.com/explore/tags/rosaandlawrence/)
 
 Rosa and Lawrence were written by [Katarina Rankovic](https://www.katarinarankovic.art/) on 3 October 2015
-
-
-
+    
+    
+    
 [English](/index.md) — [Italiano](/italiano.md) — [Lietuvis](/lietuvis.md) — [Srpski](/srpski.md)
 # A Ritual Resuscitation of Eternal Lovers
  
