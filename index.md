@@ -18,6 +18,7 @@ Rosa and Lawrence were written by [Katarina Rankovic](https://www.katarinarankov
 	<summary>Read script</summary>
 
 <p>
+
 # A Ritual Resuscitation of Eternal Lovers
  
  <a href="https://raw.githubusercontent.com/katarinarankovic/rosaandlawrence/main/script/english.pdf">or download pdf here</a>
