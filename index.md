@@ -1,5 +1,5 @@
 ![rosaandlawrence](/images/rl.jpg)
-<p align=center> [video](https://youtu.be/-gUZRN44Gvc)</p>
+<p align="center"> [video](https://youtu.be/-gUZRN44Gvc)</p>
 
 You are invited to assist two fictional lovers in their ambition to become autonomous agents. To donate your consciousness, follow these three steps:
 
