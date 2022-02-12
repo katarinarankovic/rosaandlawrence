@@ -21,7 +21,7 @@
 <iframe src="https://www.youtube.com/embed/-HUcz5WMzUE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
 
 
-![](/images/rl.jpg)
+![rosaandlawrence](/images/rl.jpg)
 
 You are invited to assist two fictional lovers in their ambition to become autonomous agents. To donate your consciousness, follow these three steps:
 
