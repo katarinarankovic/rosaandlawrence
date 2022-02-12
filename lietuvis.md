@@ -30,7 +30,7 @@ Rosa and Lawrence were written by [Katarina Rankovic](https://www.katarinarankov
 
 
 
-[English](/) — [Italiano](italiano.md) — [Lietuvis](lietuvis.md) — [Srpski](srpski.md)
+[English](/index.md) — [Italiano](/italiano.md) — [Lietuvis](/lietuvis.md) — [Srpski](/srpski.md)
 # Amžinų įsimylėjėlių atgimimo ritualas
 
 <a href="https://raw.githubusercontent.com/katarinarankovic/rosaandlawrence/main/script/lietuvis.pdf">parsisiųsti čia</a>

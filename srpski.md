@@ -30,7 +30,7 @@ Rosa and Lawrence were written by [Katarina Rankovic](https://www.katarinarankov
 
 
 
-[English](/index.md) — [Italiano](italiano.md) — [Lietuvis](lietuvis.md) — [Srpski](srpski.md)
+[English](/index.md) — [Italiano](/italiano.md) — [Lietuvis](/lietuvis.md) — [Srpski](/srpski.md)
 # Obredno Buđenje Večnih Ljubavnika
 
 <a href="https://raw.githubusercontent.com/katarinarankovic/rosaandlawrence/main/script/srpski.pdf">preuzmite ovde</a>
