@@ -13,12 +13,11 @@ Rosa and Lawrence were written by [Katarina Rankovic](https://www.katarinarankov
 ---
 
 [English](/index.md) — [Italiano](/italiano.md) — [Lietuvis](/lietuvis.md) — [Srpski](/srpski.md)
-
-<a href="https://raw.githubusercontent.com/katarinarankovic/rosaandlawrence/main/script/english.pdf">pdf</a>
-
-<details><summary>Click for the script</summary> 
+ 
 
 # A Ritual Resuscitation of Eternal Lovers
+
+<a href="https://raw.githubusercontent.com/katarinarankovic/rosaandlawrence/main/script/english.pdf">[pdf version]</a>
 
 One of you is Rosa, one of you is Lawrence. You have never read this. You are sitting opposite one another, holding these scripts. Get comfortable. When the time feels right,  start reading aloud at your own ease and pace
  
@@ -143,8 +142,7 @@ One of you is Rosa, one of you is Lawrence. You have never read this. You are si
 
 **ROSA**: Sweet dreams Lawrence, and good night.
  
- 
-</details>
+
 
  
 
