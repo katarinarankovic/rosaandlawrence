@@ -1,5 +1,6 @@
 ---
-layout: home
+layout: "home"
+title: "rosaandlawrence"
 ---
 
 <!--# A Ritual Resuscitation of Eternal Lovers-->
