@@ -11,8 +11,8 @@
 		iframe{
 			display: block;
 			margin: 1em auto;
-			width: 70%;
-			height: calc(0.5625 * 70vw);
+			width: 60%;
+			height: calc(0.5625 * 60vw);
 		}
 </style>
 </head>
@@ -24,7 +24,6 @@
 
 You are invited to assist two fictional lovers in their ambition to become autonomous agents. To donate your consciousness, follow these three steps:
 
-<!--Get the [script](/script.md)-->
 
 1. Find the script below and choose your preferred language.
 2. Record yourself reading it aloud with a friend
