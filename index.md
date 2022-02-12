@@ -15,8 +15,7 @@ Rosa and Lawrence were written by [Katarina Rankovic](https://www.katarinarankov
 
 [English](/index.md) — [Italiano](/italiano.md) — [Lietuvis](/lietuvis.md) — [Srpski](/srpski.md)
 
-<details>
-	<summary>Read script</summary>
+<details><summary>Read script</summary>
 
 <p>
 
