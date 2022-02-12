@@ -148,3 +148,5 @@ One of you is Rosa, one of you is Lawrence. You have never read this. You are si
  </p>
 </details>
 
+ <a href="https://raw.githubusercontent.com/katarinarankovic/rosaandlawrence/main/script/english.pdf">or download pdf here</a>
+
