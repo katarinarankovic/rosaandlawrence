@@ -13,7 +13,7 @@ Rosa and Lawrence were written by [Katarina Rankovic](https://www.katarinarankov
 ---
 
 [English](/index.md) — [Italiano](/italiano.md) — [Lietuvis](/lietuvis.md) — [Srpski](/srpski.md)
- 
+
 
 # A Ritual Resuscitation of Eternal Lovers
 

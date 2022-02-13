@@ -10,9 +10,11 @@ You are invited to assist two fictional lovers in their ambition to become auton
 
 Rosa and Lawrence were written by [Katarina Rankovic](https://www.katarinarankovic.art/) on 3 October 2015
 
-
+---
 
 [English](/index.md) — [Italiano](/italiano.md) — [Lietuvis](/lietuvis.md) — [Srpski](/srpski.md)
+
+
 # Obredno Buđenje Večnih Ljubavnika
 
 <a href="https://raw.githubusercontent.com/katarinarankovic/rosaandlawrence/main/script/srpski.pdf">preuzmite ovde</a>
