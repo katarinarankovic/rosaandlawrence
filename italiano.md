@@ -4,13 +4,13 @@
 You are invited to assist two fictional lovers in their ambition to become autonomous agents. To donate your own reading, follow these three steps:
 
 
-1. Select your preferred reading language below to view the script
+1. View the script below and select your preferred reading language
 2. Record yourself reading the script aloud with a friend
 3. Upload your reading to social media using [#rosaandlawrence](https://www.youtube.com/hashtag/rosaandlawrence), where instances of the lovers are archived
 
 Rosa and Lawrence were written by [Katarina Rankovic](https://www.katarinarankovic.art/) on 3 October 2015
 
-If you would like to contribute a new translation, please [contact](mailto:kat.rankovic@gmail.com) Katarina.
+If you would like to contribute a new translation, please [contact](mailto:kat.rankovic@gmail.com) Katarina
 
 ---
 
