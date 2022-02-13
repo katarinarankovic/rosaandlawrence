@@ -1,11 +1,12 @@
 ![rosaandlawrence](/images/rl.jpg)
+<p align="center"> <a href="https://youtu.be/-gUZRN44Gvc">video</a></p>
 
 You are invited to assist two fictional lovers in their ambition to become autonomous agents. To donate your consciousness, follow these three steps:
 
 
 1. Find the script below and choose your preferred language.
 2. Record yourself reading it aloud with a friend
-3. Upload your reading to social media using [#rosaandlawrence](https://www.instagram.com/explore/tags/rosaandlawrence/)
+3. Upload your reading to social media using [#rosaandlawrence](https://www.youtube.com/hashtag/rosaandlawrence)
 
 Rosa and Lawrence were written by [Katarina Rankovic](https://www.katarinarankovic.art/) on 3 October 2015
 
